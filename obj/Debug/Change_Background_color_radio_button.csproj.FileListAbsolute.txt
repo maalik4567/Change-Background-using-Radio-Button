@@ -1,0 +1,10 @@
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Change_Background_color_radio_button\bin\Debug\Change_Background_color_radio_button.exe.config
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Change_Background_color_radio_button\bin\Debug\Change_Background_color_radio_button.exe
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Change_Background_color_radio_button\bin\Debug\Change_Background_color_radio_button.pdb
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Change_Background_color_radio_button\obj\Debug\Change_Background_color_radio_button.csprojAssemblyReference.cache
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Change_Background_color_radio_button\obj\Debug\Change_Background_color_radio_button.Form1.resources
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Change_Background_color_radio_button\obj\Debug\Change_Background_color_radio_button.Properties.Resources.resources
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Change_Background_color_radio_button\obj\Debug\Change_Background_color_radio_button.csproj.GenerateResource.cache
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Change_Background_color_radio_button\obj\Debug\Change_Background_color_radio_button.csproj.CoreCompileInputs.cache
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Change_Background_color_radio_button\obj\Debug\Change_Background_color_radio_button.exe
+C:\Users\irfan\Desktop\C__#(C SHARP)\C#_Practise\Change_Background_color_radio_button\obj\Debug\Change_Background_color_radio_button.pdb
